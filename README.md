@@ -1,4 +1,4 @@
 # demo2-repository
-This is my first Git Repository.
+This is my second Git Repository.
 <br>
 Author - Priyanshu Dixit(Hey)
